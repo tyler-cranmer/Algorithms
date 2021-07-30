@@ -1,6 +1,8 @@
 # Algorithms
 
+
 CSPB 3104 / Algorithms
+
 DISCLAIMER: Do NOT use work in any dishonest way. This repository was created to track my software development progression. 
 
 ## Topics Covered
